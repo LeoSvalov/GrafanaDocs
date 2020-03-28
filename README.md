@@ -46,7 +46,7 @@ Now, it is time to make the first steps in Grafana:
    
    <img alt="Query edit mode" src="https://github.com/LeoSvalov/GrafanaDocs/blob/master/screenshots/Снимок%20экрана%202020-03-28%20в%2017.53.01.png" width="700" >    
       
-   You can configure your query in the 4 subclasses: __Queries, Visualization, General and Alert__.  
+   You can configure your query in the 4 subclasses: __Queries, Visualization, General__ and __Alert__.  
    
    _In this particular example, there are __Graph__ visualization mode and 2 scenarios: for A-series - __Random Walk(with error)__ and for B-series - __CVS Metric Values__ are used._ 
    
