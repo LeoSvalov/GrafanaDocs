@@ -48,5 +48,5 @@ Now, it is time to make the first steps in Grafana:
       
    You can configure your query in the 4 subclasses: __Queries, Visualization, General__ and __Alert__.  
    
-   _In this particular example, there are __Graph__ visualization mode and 2 scenarios: for A-series - __Random Walk(with error)__ and for B-series - __CVS Metric Values__ are used._ 
+   _In this particular example, there __Graph__ visualization mode and 2 scenarios: for A-series - __Random Walk(with error)__ and for B-series - __CVS Metric Values__ are used._ 
    
